@@ -35,6 +35,8 @@ IMAGE_SIZE=224
 
 ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
 
+*** Essas variaveis definem que iremos usar a mobilenet_0.50_224 , outros modelos poderao ser acessados no link: 
+https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html
 
 Feito isso execute o arquivo
 
