@@ -56,7 +56,7 @@ python3 -m retrain \
 
 #Nesse momento podemos usar o tensorboard para ver o andamento:
 
-tensorboard --logdir /tmp/retrain_logs
+tensorboard --logdir tf_files/training_summaries &
 
 Finalizado o processo, copie algumas imagens baixadas dos objetos para a pasta tf_files/objetos e rode o comando abaixo para identificar a imagem:
 
