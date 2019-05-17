@@ -3,7 +3,8 @@ Scripts para treinamentos simples usando tensorflow
 
 Baseado em: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
 
-Primeiro passo fazer o clone do repositorio
+Primeiro passo fazer o clone do repositorio:
+
 git clone https://github.com/wfp2002/Tensorflow-Treinamento-Simples.git
 
 Entra na pasta:
@@ -16,7 +17,7 @@ Executar o arquivo de download de imagens, dentro alterar qtde de imagens para b
 python3 google-download.py
 
 
-Apos ter baixados todas as imagens necessarias, criar o diretorio em "cd Tensorflow-Treinamento-Simples":
+Apos ter baixados todas as imagens necessarias, criar os diretorios abaixo em "cd Tensorflow-Treinamento-Simples":
 
 mkdir tf_files
 
